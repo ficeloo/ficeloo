@@ -1,13 +1,13 @@
 ## Hi there, I'm ficelo 👋
- What I love about video games is the emotional impact of storytelling—it keeps you dreaming long after you’ve finished playing—which is what led me to pursue a career as a game designer and junior developer. Music plays a particularly important role in the games I want to create. It sets the scene, constantly interacts with the player, and enhances the game’s narrative. To achieve this, I work in Rust and use the ECS pattern to develop my games.
+ I love how storytelling in games keeps you dreaming long after you've put down the controller. It keeps you dreaming long after you’ve finished playing. This ideal led me to pursue a career as a game designer and junior developer. Music plays a particularly important role in the games I'm creating. It sets the scene, constantly interacts with the player, and enhances the game’s narrative.
  
 ### 🔭 I’m currently working on
-- Stellar Drift, a Rust reproduction of the famous Atari's game Asteroid !
-- 42 school's common core in Paris, more precisely on the final project Ft_Transcendance.
+- Stellar Drift, a Rust reproduction of the Atari's famous game : Asteroids !
+- 42 school's core curriculum in Paris, more precisely on the final project Ft_Transcendence.
 
 ### 🌱 I’m currently learning
-- Rust with Bevy for my own experience
-- Typescript and C++ with 42 school.
+- Rust with Bevy on my own.
+- Also working with Typescript and C++ as part of the 42 curriculum.
 
 ## 📫 Find me elsewhere !
 - [itch.io](https://ficelo.itch.io)
@@ -19,4 +19,6 @@
 - the magical cheese wizard
 
 ## ⚡ Fun fact: 
+- I'm currently working at *La Philharmonie de Paris* for a live/podcast project with awesome guests (with Lorien Testard in it)! [find it here !](https://philharmoniedeparis.fr/fr/labalise/emissions-live)
+- Approximatively died 964 times in Project Zomboid.
 - me
