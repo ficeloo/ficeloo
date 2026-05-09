@@ -1,5 +1,5 @@
 ## Hi there, I'm ficelo 👋
- I love how storytelling in games keeps you dreaming long after you’ve finished playing. This ideal led me to pursue a career as a game designer and junior developer. Music plays a particularly important role in the games I'm creating. It sets the scene, constantly interacts with the player, and enhances the game’s narrative.
+ I love how storytelling in games keeps you dreaming long after you’ve finished playing. This ideal led me to pursue a career as a developer and game designer junior. Music plays a particularly important role in the games I'm creating. It sets the scene, constantly interacts with the player, and enhances the game’s narrative.
  
 ### 🔭 I’m currently working on
 - Stellar Drift, a Rust reproduction of the Atari's famous game : Asteroids !
