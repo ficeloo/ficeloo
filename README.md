@@ -3,7 +3,7 @@
  
 ### 🔭 I’m currently working on
 - Stellar Drift, a Rust reproduction of the Atari's famous game : Asteroids !
-- 42 school's core curriculum in Paris, more precisely on the final project Ft_Transcendence.
+- My very own portfolio !
 
 ### 🌱 I’m currently learning
 - Rust with Bevy on my own.
