@@ -7,7 +7,7 @@
 
 ### 🌱 I’m currently learning
 - Rust with Bevy on my own.
-- Also working with Typescript and C++ as part of the 42 curriculum.
+- Working in Astro for my portfolio so HTML and CSS too I guess.
 
 ## 📫 Find me elsewhere !
 - [itch.io](https://ficelo.itch.io)
