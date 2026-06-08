@@ -12,7 +12,7 @@
 ## 📫 Find me elsewhere !
 - [itch.io](https://ficelo.itch.io)
 - [Bluesky](https://bsky.app/profile/ficelo.bsky.social)
-- [My own site](Currently Under Construction)
+- [My own site](https://ficeloo.github.io/)
 
 ## 😄 Pronouns: 
 - he/him
