@@ -2,7 +2,8 @@
  I love how storytelling in games keeps you dreaming long after you’ve finished playing. This ideal led me to pursue a career as a developer and game designer. Music plays a particularly important role in the games I'm creating. It sets the scene, constantly interacts with the player, and enhances the game’s narrative.
  
 ### 🔭 I’m currently working on
-- Stellar Drift, a Rust reproduction of the Atari's famous game : Asteroids !
+- The scop project at 42 Paris
+- A new project...
 - My very own portfolio !
 
 ### 🌱 I’m currently learning
@@ -12,7 +13,7 @@
 ## 📫 Find me elsewhere !
 - [itch.io](https://ficelo.itch.io)
 - [Bluesky](https://bsky.app/profile/ficelo.bsky.social)
-- [My own site](https://ficeloo.github.io/)
+- [My very own portfolio !](https://ficelo.dev)
 
 ## 😄 Pronouns: 
 - he/him
