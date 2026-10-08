@@ -8,6 +8,7 @@
 
 ### 🌱 I’m currently learning
 - Rust with Bevy on my own.
+- Vulkan with 42 projects
 - Working in Astro for my portfolio so HTML and CSS too I guess.
 
 ## 📫 Find me elsewhere !
@@ -20,6 +21,6 @@
 - the magical cheese wizard
 
 ## ⚡ Fun fact: 
-- I'm currently working at *La Philharmonie de Paris* for a live/podcast project with awesome guests (with Lorien Testard in it)! [find it here !](https://philharmoniedeparis.fr/fr/labalise/emissions-live)
+- I've worked at *La Philharmonie de Paris* for a live/podcast project with awesome guests (with Lorien Testard in it)! [find it here !](https://philharmoniedeparis.fr/fr/labalise/emissions-live)
 - Approximatively died 942 times in Project Zomboid.
 - me
